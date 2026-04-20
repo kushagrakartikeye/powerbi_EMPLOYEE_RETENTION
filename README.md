@@ -79,6 +79,7 @@ Employee-Retention-Analysis/
 - Interactive Slicers  
 
 ---
+<img width="1142" height="610" alt="Screenshot 2026-04-20 150931" src="https://github.com/user-attachments/assets/1901e660-7ebd-410a-9ca7-6dc9f1152876" />
 
 ## 🔍 Key Insights
 - 📉 Highest attrition observed in the **Sales department**  
